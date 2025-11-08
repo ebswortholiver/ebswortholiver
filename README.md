@@ -11,18 +11,18 @@
 ![markdown](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=markdown&svgName=markdown&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🧩 Frameworks and Libraries
-![nextdotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nextdotjs&svgName=nextdotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
+![nextdotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=next.js&svgName=nextdotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![tailwindcss](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=tailwindcss&svgName=tailwindcss&textColor=ffffff&iconColor=ffffff&refresh=3)
-![nodedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nodedotjs&svgName=nodedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
+![nodedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=node.js&svgName=nodedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![express](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=express&svgName=express&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![unity](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unity&svgName=unity&textColor=000000&iconColor=000000&refresh=3)
 ![unrealengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unrealengine&svgName=unrealengine&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![godotengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=godotengine&svgName=godotengine&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=ffffff&iconColor=ffffff&refresh=3)
-![vuedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=vuedotjs&svgName=vuedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
+![vuedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=vue.js&svgName=vuedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![angular](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=angular&svgName=angular&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![svelte](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=3)
-![threedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=threedotjs&svgName=threedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
+![threedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=three.js&svgName=threedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![expo](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=expo&svgName=expo&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🧰 Tools
