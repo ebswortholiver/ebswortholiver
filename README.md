@@ -6,7 +6,7 @@
 ![python](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=python&svgName=python&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![kotlin](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=kotlin&svgName=kotlin&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![swift](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=swift&svgName=swift&textColor=ffffff&iconColor=ffffff&refresh=3)
-![cplusplus](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=c++&svgName=cplusplus&textColor=ffffff&iconColor=ffffff&refresh=3)
+![cplusplus](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=c%2B%2B&svgName=cplusplus&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![json](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=json&svgName=json&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![markdown](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=markdown&svgName=markdown&textColor=ffffff&iconColor=ffffff&refresh=3)
 
