@@ -21,7 +21,7 @@
 ![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![vuedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=vue.js&svgName=vuedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![angular](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=angular&svgName=angular&textColor=ffffff&iconColor=ffffff&refresh=3)
-![svelte](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=3)
+![svelte](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte-kit&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![threedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=three.js&svgName=threedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![expo](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=expo&svgName=expo&textColor=ffffff&iconColor=ffffff&refresh=3)
 
