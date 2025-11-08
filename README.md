@@ -1,5 +1,5 @@
 ## 🗣 Languages
-![javascript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=javascript&svgName=javascript&textColor=ffffff&iconColor=ffffff&refresh=3)
+![javascript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=javascript&svgName=javascript&textColor=000000&iconColor=000000&refresh=3)
 ![typescript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=typescript&svgName=typescript&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![html5](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=html5&svgName=html5&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![css](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=css&svgName=css&textColor=ffffff&iconColor=ffffff&refresh=3)
