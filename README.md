@@ -1,16 +1,40 @@
-## Hi there 👋
+## 🗣 Languages
+![javascript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=javascript&svgName=javascript&textColor=ffffff&iconColor=ffffff&refresh=1)
+![typescript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=typescript&svgName=typescript&textColor=ffffff&iconColor=ffffff&refresh=1)
+![html5](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=html5&svgName=html5&textColor=ffffff&iconColor=ffffff&refresh=1)
+![css](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=css&svgName=css&textColor=ffffff&iconColor=ffffff&refresh=1)
+![python](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=python&svgName=python&textColor=ffffff&iconColor=ffffff&refresh=1)
+![kotlin](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=kotlin&svgName=kotlin&textColor=ffffff&iconColor=ffffff&refresh=1)
+![swift](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=swift&svgName=swift&textColor=ffffff&iconColor=ffffff&refresh=1)
+![cplusplus](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=c++&svgName=cplusplus&textColor=ffffff&iconColor=ffffff&refresh=1)
+![json](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=json&svgName=json&textColor=ffffff&iconColor=ffffff&refresh=1)
+![markdown](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=markdown&svgName=markdown&textColor=ffffff&iconColor=ffffff&refresh=1)
 
-<!--
-**ebswortholiver/ebswortholiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 Frameworks and Libraries
+![nextdotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nextdotjs&svgName=nextdotjs&textColor=ffffff&iconColor=ffffff&refresh=1)
+![tailwindcss](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=tailwindcss&svgName=tailwindcss&textColor=ffffff&iconColor=ffffff&refresh=1)
+![nodedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nodedotjs&svgName=nodedotjs&textColor=ffffff&iconColor=ffffff&refresh=1)
+![express](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=express&svgName=express&textColor=ffffff&iconColor=ffffff&refresh=1)
+![unity](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unity&svgName=unity&textColor=ffffff&iconColor=ffffff&refresh=1)
+![unrealengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unrealengine&svgName=unrealengine&textColor=ffffff&iconColor=ffffff&refresh=1)
+![godotengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=godotengine&svgName=godotengine&textColor=ffffff&iconColor=ffffff&refresh=1)
+![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=ffffff&iconColor=ffffff&refresh=1)
+![vuedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=vuedotjs&svgName=vuedotjs&textColor=ffffff&iconColor=ffffff&refresh=1)
+![angular](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=angular&svgName=angular&textColor=ffffff&iconColor=ffffff&refresh=1)
+![svelte](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=1)
+![threedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=threedotjs&svgName=threedotjs&textColor=ffffff&iconColor=ffffff&refresh=1)
+![expo](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=expo&svgName=expo&textColor=ffffff&iconColor=ffffff&refresh=1)
 
-Here are some ideas to get you started:
+## 🧰 Tools
+![git](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=git&svgName=git&textColor=ffffff&iconColor=ffffff&refresh=1)
+![github](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=github&svgName=github&textColor=ffffff&iconColor=ffffff&refresh=1)
+![blender](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=blender&svgName=blender&textColor=ffffff&iconColor=ffffff&refresh=1)
+![androidstudio](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=androidstudio&svgName=androidstudio&textColor=ffffff&iconColor=ffffff&refresh=1)
+![xcode](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=xcode&svgName=xcode&textColor=ffffff&iconColor=ffffff&refresh=1)
+![aseprite](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=aseprite&svgName=aseprite&textColor=ffffff&iconColor=ffffff&refresh=1)
+![visualparadigm](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=visualparadigm&svgName=visualparadigm&textColor=ffffff&iconColor=ffffff&refresh=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗄 Databases
+![mongodb](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongodb&svgName=mongodb&textColor=ffffff&iconColor=ffffff&refresh=1)
+![mongoose](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongoose&svgName=mongoose&textColor=ffffff&iconColor=ffffff&refresh=1)
+![postgresql](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=postgresql&svgName=postgresql&textColor=ffffff&iconColor=ffffff&refresh=1)
