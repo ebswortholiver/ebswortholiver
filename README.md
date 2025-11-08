@@ -29,10 +29,10 @@
 ![git](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=git&svgName=git&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![github](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=github&svgName=github&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![blender](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=blender&svgName=blender&textColor=ffffff&iconColor=ffffff&refresh=3)
-![androidstudio](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=androidstudio&svgName=androidstudio&textColor=ffffff&iconColor=ffffff&refresh=3)
+![androidstudio](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=android+studio&svgName=androidstudio&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![xcode](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=xcode&svgName=xcode&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![aseprite](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=aseprite&svgName=aseprite&textColor=ffffff&iconColor=ffffff&refresh=3)
-![visualparadigm](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=visualparadigm&svgName=visualparadigm&textColor=ffffff&iconColor=ffffff&refresh=3)
+![visualparadigm](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=visual+paradigm&svgName=visualparadigm&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🗄 Databases
 ![mongodb](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongodb&svgName=mongodb&textColor=ffffff&iconColor=ffffff&refresh=3)
