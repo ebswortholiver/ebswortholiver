@@ -35,6 +35,6 @@
 ![visualparadigm](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=visual+paradigm&svgName=visualparadigm&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🗄 Databases
-![mongodb](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongodb&svgName=mongodb&textColor=ffffff&iconColor=ffffff&refresh=3)
+![mongodb](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongo+db&svgName=mongodb&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![mongoose](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=mongoose&svgName=mongoose&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![postgresql](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=postgresql&svgName=postgresql&textColor=ffffff&iconColor=ffffff&refresh=3)
