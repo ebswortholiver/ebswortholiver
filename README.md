@@ -15,7 +15,7 @@
 ![tailwindcss](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=tailwindcss&svgName=tailwindcss&textColor=ffffff&iconColor=ffffff&refresh=2)
 ![nodedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nodedotjs&svgName=nodedotjs&textColor=ffffff&iconColor=ffffff&refresh=2)
 ![express](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=express&svgName=express&textColor=ffffff&iconColor=ffffff&refresh=2)
-![unity](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unity&svgName=unity&textColor=ffffff&iconColor=ffffff&refresh=2)
+![unity](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unity&svgName=unity&textColor=000000&iconColor=000000&refresh=2)
 ![unrealengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=unrealengine&svgName=unrealengine&textColor=ffffff&iconColor=ffffff&refresh=2)
 ![godotengine](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=godotengine&svgName=godotengine&textColor=ffffff&iconColor=ffffff&refresh=2)
 ![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=ffffff&iconColor=ffffff&refresh=2)
