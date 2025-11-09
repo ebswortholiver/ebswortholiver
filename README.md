@@ -6,7 +6,7 @@
 C#
 ![json](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=json&svgName=json&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![css](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=css&svgName=css&textColor=ffffff&iconColor=ffffff&refresh=3)
-GDScript
+![gd-script](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=gdscript&svgName=godotengine&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![markdown](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=markdown&svgName=markdown&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![kotlin](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=kotlin&svgName=kotlin&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![swift](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=swift&svgName=swift&textColor=ffffff&iconColor=ffffff&refresh=3)
