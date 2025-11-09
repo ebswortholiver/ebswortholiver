@@ -1,7 +1,3 @@
-| 🐍 Contribution Activity |
-|:--:|
-| <p align="center"><img src="https://raw.githubusercontent.com/ebswortholiver/ebswortholiver/output/github-contribution-grid-snake-dark.svg" width=1000 /></p> |
-
 ## 🗣 Languages
 ![javascript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=javascript&svgName=javascript&textColor=000000&iconColor=000000&refresh=3)
 ![typescript](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=typescript&svgName=typescript&textColor=ffffff&iconColor=ffffff&refresh=3)
