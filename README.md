@@ -22,10 +22,10 @@ C#
 ![stencil](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=stencil&svgName=stencil&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![svelte](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![electron](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=electron&svgName=electron&textColor=ffffff&iconColor=ffffff&refresh=3)
-Nextron
+![nextron](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nextron&svgName=electron&backgroundColor=000000&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🖥️ Technologies
-JSX
+![jsx](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=jsx&svgName=react&backgroundColor=8a53a6&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![tailwindcss](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=tailwindcss&svgName=tailwindcss&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![nodedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=node.js&svgName=nodedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![axios](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=axios&svgName=axios&textColor=ffffff&iconColor=ffffff&refresh=3)
