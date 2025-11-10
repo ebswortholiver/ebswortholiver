@@ -15,7 +15,7 @@
 ## 🧩 Frameworks
 ![nextdotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=next.js&svgName=nextdotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![svelte-kit](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=svelte-kit&svgName=svelte&textColor=ffffff&iconColor=ffffff&refresh=3)
-![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=ffffff&iconColor=ffffff&refresh=3)
+![nuxt](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=nuxt&svgName=nuxt&textColor=000000&iconColor=000000&refresh=3)
 ![vuedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=vue.js&svgName=vuedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![angular](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=angular&svgName=angular&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![solid](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=solid&svgName=solid&textColor=ffffff&iconColor=ffffff&refresh=3)
@@ -32,7 +32,7 @@
 ![express](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=express&svgName=express&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![expo](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=expo&svgName=expo&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![threedotjs](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=three.js&svgName=threedotjs&textColor=ffffff&iconColor=ffffff&refresh=3)
-![gsap](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=gsap&svgName=gsap&textColor=ffffff&iconColor=ffffff&refresh=3)
+![gsap](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=gsap&svgName=gsap&textColor=000000&iconColor=000000&refresh=3)
 ![cloudinary](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=cloudinary&svgName=cloudinary&textColor=ffffff&iconColor=ffffff&refresh=3)
 
 ## 🗄 Databases
@@ -58,7 +58,7 @@
 ![ms-word](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=ms+word&svgName=microsoftword&backgroundColor=0060c4&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![ms-powerpoint](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=ms+powerpoint&svgName=microsoftpowerpoint&backgroundColor=c43e1c&textColor=ffffff&iconColor=ffffff&refresh=3)
 ![ms-excel](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=ms+excel&svgName=microsoftexcel&backgroundColor=107c41&textColor=ffffff&iconColor=ffffff&refresh=3)
-![androidstudio](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=android+studio&svgName=androidstudio&textColor=ffffff&iconColor=ffffff&refresh=3)
+![androidstudio](https://nextjs-svg-badge-generator.vercel.app/api/badge/generate?text=android+studio&svgName=androidstudio&textColor=000000&iconColor=000000&refresh=3)
 
 ## 🎮 Game Engines
 
